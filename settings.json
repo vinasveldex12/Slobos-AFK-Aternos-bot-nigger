@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "SYMPAX12.aternos.me",
+    "port": 44979,
     "version": "",
     "try-creative": false
   },
@@ -59,7 +59,7 @@
   },
   "modules": {
     "avoidMobs": true,
-    "combat": true,
+    "combat": false,
     "beds": false,
     "chat": true,
     "console-commands": true
